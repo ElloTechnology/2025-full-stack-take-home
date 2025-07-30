@@ -14,7 +14,7 @@ Ello is a forward-thinking educational technology company dedicated to revolutio
 
 **Note:** Please don't fork this repository or create a pull request against it. Other applicants may take inspiration from it. You should create another repository for the challenge. Once the coding challenge is completed, email your solution back to our team at [fullstack2024@ello.com](mailto:fullstack2024@ello.com).
 
-## The challenge: The AI-Powered Learning Companion
+## Challenge: The AI-Powered Learning Companion
 
 This challenge is designed to simulate a real-world problem we might tackle. It's an opportunity for you to showcase your technical skills, architectural thinking, and problem-solving approach in a tangible way. We value creativity and solid engineering principles.
 
