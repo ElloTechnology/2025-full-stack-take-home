@@ -43,7 +43,7 @@ The user journey is as follows:
 ## Tech Stack
 
 - Python, Flutter and Livekit
-- If you believe a different stack is a better fit, you may use it—but explain your decision, why it's better, and how it integrates.
+- If you believe a different stack is a better fit, or you’re more comfortable with it, you may use it, but explain your choice.
 - You may use AI tools to drive teaching and evaluation.
 
 ## Submission Deliverables
