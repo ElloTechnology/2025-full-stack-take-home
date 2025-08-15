@@ -31,11 +31,11 @@ The core interaction should be voice-based, facilitated by **LiveKit** for real-
 The user journey is as follows:
 
 - A child joins a new session through the UI.
-- An AI tutor greets the child, asks for a brief introduction, and requests for childs name and parent's email address to send a progress report.
+- An AI tutor greets the child, asks for a brief introduction, and requests for the childs name and parent's email address to send a progress report.
 - The AI tutor conducts a short learning activity on a simple topic.
   - You have the freedom to choose the topic (e.g., "What are the three primary colors?", "What is a planet?").
 - Following the lesson, the AI asks a few questions to gently evaluate the child's understanding.
-  - e.g. if it was about colors ask something like Can you name one primary color for me?
+  - e.g. if it was about colors ask something like "Can you name one primary color for me?".
 - Finally, the system generates a summary report of the session and emails it to the address provided.
   - Backend should generate a simple performance report
   - This report must be sent to the email address provided during onboarding.
